@@ -14,11 +14,11 @@ public class Siakad26 {
        //Data Mahasiswa
        System.out.print("Masukkan nama: ");
        nama = sc.nextLine();
-       System.out.print("Masukkan NIM ");
+       System.out.print("Masukkan NIM: ");
        nim = sc.nextLine();
        System.out.print("Masukkan kelas: ");
        kelas = sc.nextLine().charAt(0);
-       System.out.print("Masukkan nomor absen ");
+       System.out.print("Masukkan nomor absen: ");
        absen = sc.nextByte();
 
        //Nilai
